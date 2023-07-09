@@ -1,0 +1,379 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#table-one {
+    width: 100%;
+    border-style: none;
+    background-image: url(travel.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 750px;
+    margin-bottom: 40px;
+    float: left;
+}
+
+#table-two {
+    width: 100%;
+    border-style: none;
+    height: 90px;
+    margin-bottom: 250px;
+    background-color: rgba(0,0,0,0.1);
+}
+
+#table-three {
+    width: 100%;
+    border-style: none;
+    height: 90px;
+    margin-bottom: 260px;
+    
+}
+
+#heading {
+    font-size: 30px;
+    font-family: verdana;
+    color: rgb(186, 181, 181);
+    margin-left: 5px;    
+}
+
+.nav {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: calibri;
+    color: lightgray;
+}
+
+.book-now {
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    font-family: calibri;
+    font-weight: bold;
+    border-style: none;
+    background-color: crimson;
+    color: white;
+}
+
+.anchor {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.heading-two {
+    font-size: 35px;
+    font-family: verdana;
+    text-align: center;
+}
+
+.para-one {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    margin-bottom: ;
+}
+
+#button-two {
+    width: 120px;
+    height: 36px;
+    margin-top: 12px;
+    font-size: 18px;
+    background-color: white;
+    border-style: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-right: 13px;
+}
+
+#button-three {
+    width: 130px;
+    height: 36px;
+   
+    font-size: 15px;
+    background-color: rgba(0,0,0,0.1);
+    border-style: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-style: solid;
+    color: white;
+    border-color: white;
+}
+
+.anchor-two {
+    text-decoration: none;
+    color: white;
+}
+
+.anchor-three {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+#packages {
+    width: 100%;
+    border-style: none;
+    border-color: black;
+    float: left;
+    margin-bottom: 40px;
+}
+
+#packages-table {
+    width: 85%;
+    border-style: none;
+    background-color: white;
+}
+
+
+.pack-heading {
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-bottom: 23px;
+    font-weight: bold;
+}
+
+#Your-holiday {
+    font-size: 38px;
+    font-family: sans-serif;
+    margin-bottom: 25px;
+}
+
+    .para-two {
+        font-size: 20px;
+        font-family: calibri;
+        font-weight: bold;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+
+.form {
+    width: 260px;
+    height: 40px;
+    font-size: 17px;
+    background-color: cornsilk;
+    border-style: none;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-bottom: 45px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+#services {
+    width: 100%;
+    border-style: none;
+    border-color: black;
+    float: left;  
+    margin-bottom: 40px;
+    box-sizing: border-box;
+}
+
+#table-service {
+    width: 85%;
+    margin-bottom: 10px;
+}
+
+#table-service-two {
+    width: 85%;
+}
+
+#td-table {
+    padding: 15px;
+}
+
+#country-name {
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 20px;
+    font-family: calibri;
+}
+
+#pre {
+    text-align: left;
+    margin-left: 16px;
+    font-size: 15px;
+    font-family: calibri;
+}
+
+
+
+
+
+#video {
+    width: 100%;
+    border-style: none;
+    border-color: black;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+
+#video-table {
+    width: 85%;
+    
+}
+
+#video-heading {
+    font-size: 37px;
+    font-family: verdana;
+    font-weight: normal;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.video-pic {
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+
+#footer {
+    width: 100%;
+    border-style: none;
+    border-color: black;
+    float: left;
+    background-image: url(OCEAN.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: 100% 760px;
+
+}
+
+#chat-section {
+    width: 70%;
+    margin-top: 30px;
+}
+
+.touch {
+    font-size: 23px;
+    font-family: calibri;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.touch-two {
+    font-size: 37px;
+    font-family: calibri;
+    font-weight: bold;
+}
+
+.email {
+    width: 280px;
+    height: 45px;
+    margin-left: 10px;
+    border-style: none;
+    background-color: ghostwhite;
+    text-align:center;
+    font-size: 15px;
+    font-weight: bold;
+    float: right;
+}
+
+.Send {
+    width: 100px;
+    height: 45px;
+    margin-left: 5px;
+    font-size: 22px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-style: solid;
+    font-family: calibri;
+    font-weight: bold;
+    color: white;
+    border-color: white;
+}
+
+
+
+
+.about-us-section {
+    width: 85%;
+    border-style: solid;
+    margin-top: 40px;
+    background-color: white;
+    margin-bottom: 65px;
+}
+
+#icon-pic {
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+
+.travel-us {
+    font-size: 38px;
+    font-family: calibri;
+    font-weight: bold;
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 15px;
+} 
+
+.text {
+    font-size: 17px;
+    font-family: verdana;
+    float: left;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
+
+#ul-list {
+    font-size: 20px;
+    font-family: calibri;
+    font-weight: bold;
+    color: gray;
+}
+
+.p-one {
+    float: left;
+    margin: 17px;
+    font-family: calibri;
+    color: white;
+}
+
+.p-two {
+    float: right;
+    margin: 17px;
+    font-family: calibri;
+    color: white;
+}
+
+
+/* map location */
+
+#map-location {
+    width: 100%;
+    border-style: none;
+    border-color: black;
+    float: left;
+    margin-bottom: 40px;
+}
+
+#map-tab {
+    width: 70%;
+    
+}
+
+#map-loc {
+    font-size: 37px;
+    font-family: calibri;
+    float: left;
+    margin-bottom: 10px;
+}
+
+/* end map location */
